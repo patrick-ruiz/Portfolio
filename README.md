@@ -9,7 +9,7 @@ Bienvenue dans ce dépôt destiné à présenter quelques documents produit pour
 ## BUT2 Gestion de projet industriel
 [Document descriptif des objectifs d'apprentissage à destination des étudiants en projet de semestre 3 ou 4](/0_Presentation_GestionDeProjet_V1.6.pdf)
 - [Exemple 1 de dossier technique à l'issue du projet](/Exemple_Dossier_Etudiant_DROOPY.pdf)
-- [Exemple 2 de dossier technique à l'issue du projet](/Exemple_Dossier_Etudiant_Artifitial_pilot copy.pdf)
+- [Exemple 2 de dossier technique à l'issue du projet](/https://github.com/patrick-ruiz/Portfolio/blob/main/Exemple_Dossier_Etudiant_Jetson_Artificial_Pilot%20copy.pdf)
 
 ## BUT2 La chaîne de traitement numérique du signal
 [Partie du cours destiné au tronc commun](exemples/exemple1.py)
