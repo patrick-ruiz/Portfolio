@@ -13,23 +13,23 @@ Bienvenue dans ce dépôt destiné à présenter quelques documents produit pour
 
 ## BUT2 La chaîne de traitement numérique du signal
 [Partie du cours destiné au tronc commun](exemples/exemple1.py)
-[TP1](exemples/exemple1.py)
-[TD2](exemples/exemple2.py)
+-[TP1](exemples/exemple1.py)
+-[TD2](exemples/exemple2.py)
 
 ## BUT3 Introduction au traitement de l'image
-[C-TD1](exemples/exemple1.py)
-[TP1](exemples/exemple2.py)
+-[C-TD1](exemples/exemple1.py)
+-[TP1](exemples/exemple2.py)
 
 ## Polytech Paris Saclay EIE 4e
 [Chaîne d'acquisition et estimation de l'incertitude de mesure](exemples/exemple1.py)
 
 ## Polytech Paris Saclay EIE 5e
-[Développement orienté objet d'applications Androïd connectées](exemples/exemple1.py)
-[Elements d'architecture optimisée pour el Traiteemnt numérique du signal](exemples/exemple1.py)
-  [TP de découverte et paramètrage du SMT32F446](exemples/exemple1.py)
+-[Développement orienté objet d'applications Androïd connectées](exemples/exemple1.py)
+-[Elements d'architecture optimisée pour el Traiteemnt numérique du signal](exemples/exemple1.py)
+[TP de découverte et paramètrage du SMT32F446](exemples/exemple1.py)
 
 ## Ancien cours de langage JAVA
-[Asservissements linéaires, numériques et non-linéaires](exemples/exemple1.py)
+[Java, l'expresso](exemples/exemple1.py)
 
 ## Ancienne préparation à l'agrégation externe de Génie électrique option électronique
 [Asservissements linéaires, numériques et non-linéaires](exemples/exemple1.py)
