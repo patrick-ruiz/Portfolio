@@ -1,6 +1,6 @@
 # Exemples de documents supports d'activités d'enseignement
 
-Bienvenue dans ce dépôt destiné à présenter quelques documents produit pour différentes formations ainsi que des exemples de trvaaux d'étudiants :
+Bienvenue dans ce dépôt destiné à présenter quelques documents produits pour des formations de différents niveaux ainsi que des exemples de travaux d'étudiants :
 
 ## BUT1 Sciences Physiques
 - [Mission d'apprentissage par problème (APP) sur les équations aux dimensions](/APP1_dimensions.pdf)
@@ -12,7 +12,7 @@ Bienvenue dans ce dépôt destiné à présenter quelques documents produit pour
 - [Exemple 2 de dossier technique à l'issue du projet](/Exemple_Dossier_Etudiant_Jetson_Artificial_Pilot.pdf)
 
 ## BUT2 La chaîne de traitement numérique du signal
-[Partie du cours destiné au tronc commun](/cours-electronique-BUT2-TC_2024_cours.pdf)
+[Partie du cours destinée au tronc commun](/cours-electronique-BUT2-TC_2024_cours.pdf)
 - [TD1](/TD1_electronique_S3_2023_V1.pdf)
 - [TP1](/TP1_TEC_S3_2024-25_V0.pdf)
 
@@ -20,12 +20,12 @@ Bienvenue dans ce dépôt destiné à présenter quelques documents produit pour
 - [C-TD1](/TD1_electronique_S5_2024_V1.pdf)
 - [TP1](/TP1_TEC_S3_2024-25_V0.pdf)
 
-## Polytech Paris Saclay EIE 4e
+## Polytech Paris Saclay EIE 4e année
 [Chaîne d'acquisition et estimation de l'incertitude de mesure](CAPTEURS_2024_etud.pdf)
 
-## Polytech Paris Saclay EIE 5e
+## Polytech Paris Saclay EIE 5e année
 - [Développement orienté objet d'applications Androïd connectées](/UML_APP5_2024.pdf)
-- [Elements d'architecture optimisée pour el Traiteemnt numérique du signal](/PPS_ARCHI_DSP_2024.pdf)
+- [Eléments d'architectures pour l'optimisation du Traitement numérique du signal](/PPS_ARCHI_DSP_2024.pdf)
   - [TP de découverte et paramètrage du SMT32F446](/DSP_TP2024_V1.pdf)
 
 
