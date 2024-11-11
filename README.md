@@ -26,9 +26,8 @@ Bienvenue dans ce dépôt destiné à présenter quelques documents produit pour
 ## Polytech Paris Saclay EIE 5e
 - [Développement orienté objet d'applications Androïd connectées](/UML_APP5_2024.pdf)
 - [Elements d'architecture optimisée pour el Traiteemnt numérique du signal](/PPS_ARCHI_DSP_2024.pdf)
-'''
-  [TP de découverte et paramètrage du SMT32F446](/DSP_TP2024_V1.pdf)
-'''
+  - [TP de découverte et paramètrage du SMT32F446](/DSP_TP2024_V1.pdf)
+
 
 ## Ancien cours de langage JAVA
 [Java, l'expresso](/J_cours_2019_V0.pdf)
