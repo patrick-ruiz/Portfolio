@@ -1,4 +1,4 @@
-# Exemples de documents supports d'activités
+# Exemples de documents supports d'activités d'enseignement
 
 Bienvenue dans ce dépôt destiné à présenter quelques documents produit pour différentes formations ainsi que des exemples de trvaaux d'étudiants :
 
