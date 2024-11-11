@@ -21,7 +21,7 @@ Bienvenue dans ce dépôt destiné à présenter quelques documents produit pour
 - [TP1](/TP1_TEC_S3_2024-25_V0.pdf)
 
 ## Polytech Paris Saclay EIE 4e
-[Chaîne d'acquisition et estimation de l'incertitude de mesure](exemples/exemple1.py)
+[Chaîne d'acquisition et estimation de l'incertitude de mesure](CAPTEURS 2024 etud.pdf)
 
 ## Polytech Paris Saclay EIE 5e
 - [Développement orienté objet d'applications Androïd connectées](exemples/exemple1.py)
