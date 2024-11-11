@@ -25,6 +25,8 @@ Bienvenue dans ce dépôt destiné à présenter quelques documents produit pour
 
 ## Polytech Paris Saclay EIE 5e
 [Développement orienté objet d'applications Androïd connectées](exemples/exemple1.py)
+[Elements d'architecture optimisée pour el Traiteemnt numérique du signal](exemples/exemple1.py)
+  [TP de découverte et paramètrage du SMT32F446](exemples/exemple1.py)
 
 ## Ancien cours de langage JAVA
 [Asservissements linéaires, numériques et non-linéaires](exemples/exemple1.py)
