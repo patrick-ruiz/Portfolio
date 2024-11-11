@@ -24,12 +24,12 @@ Bienvenue dans ce dépôt destiné à présenter quelques documents produit pour
 [Chaîne d'acquisition et estimation de l'incertitude de mesure](CAPTEURS_2024_etud.pdf)
 
 ## Polytech Paris Saclay EIE 5e
-- [Développement orienté objet d'applications Androïd connectées](exemples/exemple1.py)
+- [Développement orienté objet d'applications Androïd connectées](/UML_APP5_2024.pdf)
 - [Elements d'architecture optimisée pour el Traiteemnt numérique du signal](/PPS_ARCHI_DSP_2024.pdf)
 [TP de découverte et paramètrage du SMT32F446](/DSP_TP2024_V1.pdf)
 
 ## Ancien cours de langage JAVA
-[Java, l'expresso](exemples/exemple1.py)
+[Java, l'expresso](/J_cours_2019_V0.pdf)
 
 ## Ancienne préparation à l'agrégation externe de Génie électrique option électronique
 [Asservissements linéaires, numériques et non-linéaires](/Prepa_agreg_cours_asservissements.pdf)
