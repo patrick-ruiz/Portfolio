@@ -12,7 +12,7 @@ Bienvenue dans ce dépôt destiné à présenter quelques documents produit pour
 - [Exemple 2 de dossier technique à l'issue du projet](/Exemple_Dossier_Etudiant_Jetson_Artificial_Pilot.pdf)
 
 ## BUT2 La chaîne de traitement numérique du signal
-[Partie du cours destiné au tronc commun]([exemples/exemple1.py](/cours-electronique-BUT2-TC%202024%20cours.pdf)
+[Partie du cours destiné au tronc commun]([exemples/exemple1.py](/cours-electronique-BUT2-TC 2024 cours.pdf)
 -[TD1](/TD1_electronique_S3_2023_V1.pdf)
 -[TP1](/TP1_TEC_S3_2024-25_V0.pdf)
 
