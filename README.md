@@ -28,7 +28,7 @@ Bienvenue dans ce dépôt destiné à présenter quelques documents produit pour
 - [Elements d'architecture optimisée pour el Traiteemnt numérique du signal](/PPS_ARCHI_DSP_2024.pdf)
 <pre>
   [TP de découverte et paramètrage du SMT32F446](/DSP_TP2024_V1.pdf)
-<\pre>
+</pre>
 
 ## Ancien cours de langage JAVA
 [Java, l'expresso](/J_cours_2019_V0.pdf)
