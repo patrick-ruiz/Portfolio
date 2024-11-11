@@ -17,7 +17,7 @@ Bienvenue dans ce dépôt destiné à présenter quelques documents produit pour
 - [TP1](/TP1_TEC_S3_2024-25_V0.pdf)
 
 ## BUT3 Introduction au traitement de l'image
-- [C-TD1](exemples/exemple1.py)
+- [C-TD1](/TD1_electronique_S5_2024_V1.pdf)
 - [TP1](/TP1_TEC_S3_2024-25_V0.pdf)
 
 ## Polytech Paris Saclay EIE 4e
