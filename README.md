@@ -21,18 +21,18 @@ Bienvenue dans ce dépôt destiné à présenter quelques documents produit pour
 - [TP1](/TP1_TEC_S3_2024-25_V0.pdf)
 
 ## Polytech Paris Saclay EIE 4e
-[Chaîne d'acquisition et estimation de l'incertitude de mesure](CAPTEURS 2024 etud.pdf)
+[Chaîne d'acquisition et estimation de l'incertitude de mesure](CAPTEURS_2024_etud.pdf)
 
 ## Polytech Paris Saclay EIE 5e
 - [Développement orienté objet d'applications Androïd connectées](exemples/exemple1.py)
-- [Elements d'architecture optimisée pour el Traiteemnt numérique du signal](exemples/exemple1.py)
-[TP de découverte et paramètrage du SMT32F446](exemples/exemple1.py)
+- [Elements d'architecture optimisée pour el Traiteemnt numérique du signal](/PPS_ARCHI_DSP_2024.pdf)
+[TP de découverte et paramètrage du SMT32F446](/DSP_TP2024_V1.pdf)
 
 ## Ancien cours de langage JAVA
 [Java, l'expresso](exemples/exemple1.py)
 
 ## Ancienne préparation à l'agrégation externe de Génie électrique option électronique
-[Asservissements linéaires, numériques et non-linéaires](exemples/exemple1.py)
+[Asservissements linéaires, numériques et non-linéaires](/Prepa_agreg_cours_asservissements.pdf)
 
 
 
