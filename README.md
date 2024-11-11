@@ -13,19 +13,19 @@ Bienvenue dans ce dépôt destiné à présenter quelques documents produit pour
 
 ## BUT2 La chaîne de traitement numérique du signal
 [Partie du cours destiné au tronc commun](/cours-electronique-BUT2-TC_2024_cours.pdf)
--[TD1](/TD1_electronique_S3_2023_V1.pdf)
--[TP1](/TP1_TEC_S3_2024-25_V0.pdf)
+- [TD1](/TD1_electronique_S3_2023_V1.pdf)
+- [TP1](/TP1_TEC_S3_2024-25_V0.pdf)
 
 ## BUT3 Introduction au traitement de l'image
--[C-TD1](exemples/exemple1.py)
--[TP1](/TP1_TEC_S3_2024-25_V0.pdf)
+- [C-TD1](exemples/exemple1.py)
+- [TP1](/TP1_TEC_S3_2024-25_V0.pdf)
 
 ## Polytech Paris Saclay EIE 4e
 [Chaîne d'acquisition et estimation de l'incertitude de mesure](exemples/exemple1.py)
 
 ## Polytech Paris Saclay EIE 5e
--[Développement orienté objet d'applications Androïd connectées](exemples/exemple1.py)
--[Elements d'architecture optimisée pour el Traiteemnt numérique du signal](exemples/exemple1.py)
+- [Développement orienté objet d'applications Androïd connectées](exemples/exemple1.py)
+- [Elements d'architecture optimisée pour el Traiteemnt numérique du signal](exemples/exemple1.py)
 [TP de découverte et paramètrage du SMT32F446](exemples/exemple1.py)
 
 ## Ancien cours de langage JAVA
